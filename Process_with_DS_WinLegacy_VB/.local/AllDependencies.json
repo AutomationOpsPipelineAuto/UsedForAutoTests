@@ -10340,9 +10340,9 @@
     "restore": {
       "projectUniqueName": "Process_with_DS_WinLegacy_VB",
       "projectName": "Process_with_DS_WinLegacy_VB",
-      "projectPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_DS_WinLegacy_VB\\.local",
+      "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_DS_WinLegacy_VB\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_DS_WinLegacy_VB\\.local",
+      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_DS_WinLegacy_VB\\.local",
       "fallbackFolders": [
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder"
       ]

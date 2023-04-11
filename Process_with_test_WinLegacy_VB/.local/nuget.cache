@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQwXka5o6mMhQ4JUg7rrLuRzqT5EMqYI3pKyo0AHsYdVryUNIA+j8AoARwoHWGnr37VP/q4omFd5bFZ9+A1yhg==",
+  "dgSpecHash": "sAVXUuqEsRE4DJ84oKFpQRCV9OFkxcspKyGoouIHCmuG7PkplOG5irhEp66PQQiP8HEh7dT7QYecgPcY9xVJEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_test_WinLegacy_VB\\.local\\",
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_WinLegacy_VB\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",

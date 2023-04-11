@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmgiAQsoeusXfQUjXZuT020hQV75+LKNg2NIpgdgC8Za4jIu0tTS9nQlZHiZQ5Em/DobBEIR5h7DEb3CF1DRTA==",
+  "dgSpecHash": "P/+MynM29j1RCFeKGtHga4sf2vsPbk9eArrCt+DdDj4yrA5bGgj5HnSaGFXrV4M9Jt6uj4w+2/UoHwd1Pu12Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_test_Cross_VB\\.local\\",
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Cross_VB\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

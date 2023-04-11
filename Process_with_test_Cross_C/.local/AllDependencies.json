@@ -6513,9 +6513,9 @@
     "restore": {
       "projectUniqueName": "Process_with_test_Cross_C",
       "projectName": "Process_with_test_Cross_C",
-      "projectPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_test_Cross_C\\.local",
+      "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Cross_C\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_test_Cross_C\\.local",
+      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Cross_C\\.local",
       "fallbackFolders": [
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder"
       ]

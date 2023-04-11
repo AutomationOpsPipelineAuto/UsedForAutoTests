@@ -63,8 +63,8 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.platform\\23.4.0\\lib/net6.0/UiPath.Platform.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview"
     },
@@ -1831,8 +1831,8 @@
       },
       "Assemblies": [
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview"
     },
