@@ -21259,8 +21259,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\UiPath\\NugetFallbackFolder": {}
+    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
@@ -21268,10 +21267,7 @@
       "projectName": "Process_with_test_Windows_VB",
       "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Windows_VB\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Windows_VB\\.local",
-      "fallbackFolders": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder"
-      ]
+      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\Process_with_test_Windows_VB\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
