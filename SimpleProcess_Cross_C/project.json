@@ -1,5 +1,6 @@
 {
   "name": "SimpleProcess_Cross_C",
+  "projectId": "d93743ad-15d6-4f7f-9439-4dbd541fa593",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -42,7 +43,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
   "entryPoints": [

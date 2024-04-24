@@ -35,12 +35,12 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netcoreapp3.0/System.IO.Pipelines.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.platform\\23.4.0\\lib/net6.0/UiPath.Platform.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.activities\\23.4.0-preview\\lib/net6.0/UiPath.System.Activities.ViewModels.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.activities\\23.4.0-preview\\lib/net6.0/UiPath.System.Activities.ViewModels.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.runtime.portable\\23.4.0-preview\\lib/net6.0/UiPath.OrchestratorClient.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.runtime.portable\\23.4.0-preview\\lib/net6.0/UiPath.System.Activities.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.activities\\23.4.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.activities\\23.4.0-preview"
     },
     {
       "Package": {
@@ -62,11 +62,11 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.codedworkflows\\23.2.0-alpha.3503132\\lib/net6.0/UiPath.CodedWorkflows.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.platform\\23.4.0\\lib/net6.0/UiPath.Platform.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.Activities.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib/net6.0/UiPath.Testing.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview"
     },
     {
       "Package": {
@@ -82,10 +82,10 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.driver.portable\\23.4.56.1490\\lib/net6.0/Interop.UiPath.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.driver.portable\\23.4.56.1490\\lib/net6.0/UiPath.Driver.Portable.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.platform\\23.4.0\\lib/net6.0/UiPath.Platform.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.1-preview\\lib/net6.0/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.1-preview\\lib/net6.0/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities.runtime.portable\\23.4.1-preview\\lib/net6.0/UiPath.UIAutomationNext.Activities.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.1-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.1-preview"
     },
     {
       "Package": {
@@ -98,12 +98,12 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\lib/net5.0/System.Activities.ViewModels.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.platform\\23.4.0\\lib/net6.0/UiPath.Platform.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.RulesLibrary.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.ViewModels.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.0-preview\\lib/net5.0/UiPath.Web.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.ViewModels.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.runtime\\1.16.0-preview\\lib/net5.0/UiPath.Web.Activities.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.runtime\\1.16.0-preview\\lib/net5.0/UiPath.Web.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview"
     }
   ],
   "Conflicts": [],
@@ -1430,7 +1430,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\lib\\netstandard2.0\\Microsoft.Win32.SystemEvents.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
     },
@@ -1453,6 +1453,76 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\restsharp\\106.15.0\\lib\\netstandard2.0\\RestSharp.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\restsharp\\106.15.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.IO",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\lib\\netstandard1.5\\System.IO.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.io\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Reflection",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\lib\\netstandard1.5\\System.Reflection.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Reflection.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Runtime",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\lib\\netstandard1.5\\System.Runtime.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Text.Encoding",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Threading.Tasks",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\lib\\netstandard1.3\\System.Threading.Tasks.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.win7.System.Private.Uri",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtimes\\win\\lib\\netstandard1.0\\System.Private.Uri.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0"
     },
     {
       "Package": {
@@ -1500,7 +1570,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0"
     },
@@ -1528,7 +1598,7 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0"
     },
@@ -1551,6 +1621,14 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.memory\\4.5.5\\lib\\netcoreapp2.1\\_._"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.memory\\4.5.5"
+    },
+    {
+      "Package": {
+        "Id": "System.Private.Uri",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.private.uri\\4.3.0"
     },
     {
       "Package": {
@@ -1612,7 +1690,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0"
     },
@@ -1632,7 +1710,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\lib\\netstandard2.0\\System.Security.AccessControl.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Security.AccessControl.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0"
     },
@@ -1642,7 +1720,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0"
     },
@@ -1662,7 +1740,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\lib\\netstandard2.0\\System.Security.Principal.Windows.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.1\\System.Security.Principal.Windows.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0"
     },
@@ -1680,7 +1758,7 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0"
     },
@@ -1738,7 +1816,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0"
     },
@@ -1799,9 +1877,9 @@
         "Version": "23.4.0-preview"
       },
       "Assemblies": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.System.Activities.ViewModels.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.System.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.activities\\23.4.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.system.activities\\23.4.0-preview"
     },
     {
       "Package": {
@@ -1830,11 +1908,11 @@
         "Version": "23.4.0-preview"
       },
       "Assemblies": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.Activities.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview\\lib\\net6.0\\UiPath.Testing.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.testing.activities\\23.4.0-preview"
     },
     {
       "Package": {
@@ -1842,9 +1920,9 @@
         "Version": "23.4.1-preview"
       },
       "Assemblies": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.1-preview\\lib\\net6.0\\UiPath.UIAutomationNext.Activities.Design.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.1-preview\\lib\\net6.0\\UiPath.UIAutomationNext.Activities.Design.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.1-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.1-preview"
     },
     {
       "Package": {
@@ -1862,10 +1940,10 @@
         "Version": "1.16.0-preview"
       },
       "Assemblies": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.RulesLibrary.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.ViewModels.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.activities\\1.16.0-preview"
     },
     {
       "Package": {
@@ -1873,10 +1951,10 @@
         "Version": "1.16.0-preview"
       },
       "Assemblies": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.runtime\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.Activities.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.runtime\\1.16.0-preview\\lib\\net5.0\\UiPath.Web.dll"
       ],
-      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.0-preview"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.webapi.runtime\\1.16.0-preview"
     }
   ]
 }

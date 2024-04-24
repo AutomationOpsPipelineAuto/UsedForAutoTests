@@ -6506,19 +6506,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\UiPath\\NugetFallbackFolder": {}
+    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "SimpleProcess_Cross_C",
       "projectName": "SimpleProcess_Cross_C",
-      "projectPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\SimpleProcess_Cross_C\\.local",
+      "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\SimpleProcess_Cross_C\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\SimpleProcess_Cross_C\\.local",
-      "fallbackFolders": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder"
-      ]
+      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\UsedForAutoTests\\SimpleProcess_Cross_C\\.local"
     },
     "frameworks": {
       "net6.0": {
