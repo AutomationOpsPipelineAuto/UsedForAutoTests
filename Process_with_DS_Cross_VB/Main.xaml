@@ -90,6 +90,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <uda:QueryEntityRecords x:TypeArguments="p:Customers" FilterArguments="{x:Null}" FilterValues="{x:Null}" OutputRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Customers Records" EntityId="ca1a321b-5e4e-ef11-86c3-00224880fbc7" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="449.6,172.8" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_2" QueriedEntityId="ca1a321b-5e4e-ef11-86c3-00224880fbc7" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="100" TotalRecords="[totalRecords]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[totalRecords]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;abc&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;abcd&quot;]" />
   </Sequence>
 </Activity>
