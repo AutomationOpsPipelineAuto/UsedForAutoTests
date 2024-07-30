@@ -1,22 +1,20 @@
 {
   "name": "Process_with_DS_WinLegacy_VB",
+  "projectId": "ef3b9fcf-769d-4855-8aa8-343b52d0eabc",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.DataService.Activities": "[21.10.1]",
-    "UiPath.Excel.Activities": "[2.20.0-beta.3709801]",
-    "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.System.Activities": "[23.4.0-preview]",
-    "UiPath.Testing.Activities": "[23.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.4.1-preview]"
+    "UiPath.System.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[24.10.2]"
   },
   "webServices": [],
   "entitiesStores": [
     {
       "serviceDocument": ".entities/EntitiesStore.json",
-      "tenantName": "Apps",
+      "tenantName": "DefaultTenant",
       "namespace": "Process_with_DS_WinLegacy_VB",
-      "uniqueReference": "e5IAVnKX3nSRMFGSuqGQ1UW2/TNMpAJxXQMnbSEBwAU="
+      "uniqueReference": "aO7+LBNHrMc5Rsp1bHUKzArn/6sWJr2WkESbHaUWSrA="
     }
   ],
   "schemaVersion": "4.0",
@@ -51,7 +49,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

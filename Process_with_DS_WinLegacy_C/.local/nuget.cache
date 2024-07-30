@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gR7c+wBc7oolZa4HKy5F/co8acuWcau0OCp9UFd/+WmXTKTpkIm4zP5LWaOOTJx8wYIfKt5ieG0rb6z27z/dzQ==",
+  "dgSpecHash": "zosRp9MyH+MGkmI81Fe++/jzUmfn7IgtQ5GWDM61RTIRjFWBOUaHMWkM7Wmae1KAzsPKn8MrGBPcnnHnkm6FcA==",
   "success": true,
-  "projectFilePath": "C:\\AutomationOps\\2156\\Process_with_DS_WinLegacy_C\\.local\\",
+  "projectFilePath": "C:\\AutomationOps\\2157\\Process_with_DS_WinLegacy_C\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
