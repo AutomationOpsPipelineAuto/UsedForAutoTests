@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDOEIl0cHhefh8MayZkOpELHS7Z2L4Xo84095K2IarNIZLv4vwIVHYJu9iFi1mdojn1uWzGYdc/GknZ5W68GBw==",
+  "dgSpecHash": "IBD1829c/I2rURy2CX8kbxTHD6Oh2Ba3mp1jlqLsxHFTRIzOH1qUnhGgtHeD5d/FIBkp78vIaQXRGVVoGb4NGQ==",
   "success": true,
-  "projectFilePath": "C:\\AutomationOps\\2159\\Process_with_DS_Cross_C\\.local\\",
+  "projectFilePath": "C:\\AutomationOps\\2160\\Process_with_DS_Cross_C\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
