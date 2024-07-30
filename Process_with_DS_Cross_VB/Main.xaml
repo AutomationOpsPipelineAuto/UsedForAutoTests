@@ -73,7 +73,7 @@
       <AssemblyReference>WindowsBase</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="512,427.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="512,549.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int64" Name="totalRecords" />
     </Sequence.Variables>
@@ -82,7 +82,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uda:QueryEntityRecords x:TypeArguments="p:Customers" FilterArguments="{x:Null}" FilterValues="{x:Null}" OutputRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Customers Records" EntityId="ca1a321b-5e4e-ef11-86c3-00224880fbc7" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="449.6,172.8" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_2" QueriedEntityId="11cc34ef-97f7-ec11-b47a-000d3a222473" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="100" TotalRecords="[totalRecords]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[totalRecords]" />
+    <uda:QueryEntityRecords x:TypeArguments="p:Customers" FilterArguments="{x:Null}" FilterValues="{x:Null}" OutputRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Customers Records" EntityId="ca1a321b-5e4e-ef11-86c3-00224880fbc7" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="449.6,172.8" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_2" QueriedEntityId="ca1a321b-5e4e-ef11-86c3-00224880fbc7" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="100" TotalRecords="[totalRecords]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[totalRecords]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="449.6,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="aaa" />
   </Sequence>
 </Activity>
