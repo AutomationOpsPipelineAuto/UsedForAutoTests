@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Db3fqU7kXSWX6L0n+jJpSmWjxxZgMuk/jLHnsLookYbZfBBrRLgw+/TQqboDUwVu27ZujslHtDd5QPzGOImECA==",
+  "dgSpecHash": "+H/uEIfRAELdywbP55VssphnVI2Vlo988okhRkZiAyOhfRija2V5VCi+7I0y/fw3M/IZUNtHEU3FsUz80ewN0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_DS_Windows_C\\.local\\",
+  "projectFilePath": "C:\\AutomationOps\\2151\\Process_with_DS_Windows_C\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

@@ -21375,19 +21375,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\UiPath\\NugetFallbackFolder": {}
+    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Process_with_DS_Windows_C",
       "projectName": "Process_with_DS_Windows_C",
-      "projectPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_DS_Windows_C\\.local",
+      "projectPath": "C:\\AutomationOps\\2151\\Process_with_DS_Windows_C\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\OneDrive - UiPath\\Documents\\UiPath\\Process_with_DS_Windows_C\\.local",
-      "fallbackFolders": [
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder"
-      ]
+      "outputPath": "C:\\AutomationOps\\2151\\Process_with_DS_Windows_C\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21423,7 +21419,7 @@
             "version": "[23.4.1-preview, 23.4.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.pipelines.activities\\1.0.7-alpha.5101585\\tools\\net6.0-windows7.0\\runtime.json"
       }
     },
     "runtimes": {

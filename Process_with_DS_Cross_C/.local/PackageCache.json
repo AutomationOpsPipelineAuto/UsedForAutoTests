@@ -108,14 +108,14 @@
     {
       "Package": {
         "Id": "UiPath.DataService.Activities",
-        "Version": "23.4.0"
+        "Version": "24.6.0"
       },
       "Assemblies": [
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\lib/net5.0/System.Activities.ViewModels.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0\\lib/net6.0/UiPath.DataService.Activities.Core.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0\\lib/net6.0/UiPath.DataService.Definition.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0\\lib/net6.0/UiPath.DataService.Activities.Core.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0\\lib/net6.0/UiPath.DataService.Definition.dll"
       ],
-      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0"
     }
   ],
   "Conflicts": [],
@@ -849,7 +849,7 @@
     },
     "UiPath.DataService.Activities": {
       "Id": "UiPath.DataService.Activities",
-      "Version": "23.4.0",
+      "Version": "24.6.0",
       "Dependencies": [
         {
           "Item1": "System.Activities.ViewModels",
@@ -1452,7 +1452,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\lib\\netstandard2.0\\Microsoft.Win32.SystemEvents.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
     },
@@ -1475,6 +1475,66 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\restsharp\\106.15.0\\lib\\netstandard2.0\\RestSharp.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\restsharp\\106.15.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.IO",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\lib\\netstandard1.5\\System.IO.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.io\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Reflection",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\lib\\netstandard1.5\\System.Reflection.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Reflection.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Runtime",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\lib\\netstandard1.5\\System.Runtime.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Text.Encoding",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "runtime.any.System.Threading.Tasks",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\lib\\netstandard1.3\\System.Threading.Tasks.dll"
+      ],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0"
     },
     {
       "Package": {
@@ -1522,7 +1582,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.drawing.common\\5.0.0"
     },
@@ -1550,7 +1610,7 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.5.0"
     },
@@ -1573,6 +1633,14 @@
         "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.memory\\4.5.5\\lib\\netcoreapp2.1\\_._"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.memory\\4.5.5"
+    },
+    {
+      "Package": {
+        "Id": "System.Private.Uri",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.private.uri\\4.3.0"
     },
     {
       "Package": {
@@ -1634,7 +1702,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.runtime.caching\\5.0.0"
     },
@@ -1654,7 +1722,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\lib\\netstandard2.0\\System.Security.AccessControl.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Security.AccessControl.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.accesscontrol\\5.0.0"
     },
@@ -1664,7 +1732,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0"
     },
@@ -1684,7 +1752,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\lib\\netstandard2.0\\System.Security.Principal.Windows.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.1\\System.Security.Principal.Windows.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.security.principal.windows\\5.0.0"
     },
@@ -1702,7 +1770,7 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0"
     },
@@ -1760,7 +1828,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
       ],
       "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.windows.extensions\\5.0.0"
     },
@@ -1797,13 +1865,13 @@
     {
       "Package": {
         "Id": "UiPath.DataService.Activities",
-        "Version": "23.4.0"
+        "Version": "24.6.0"
       },
       "Assemblies": [
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0\\lib\\net6.0\\UiPath.DataService.Activities.Core.dll",
-        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0\\lib\\net6.0\\UiPath.DataService.Definition.dll"
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0\\lib\\net6.0\\UiPath.DataService.Activities.Core.dll",
+        "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0\\lib\\net6.0\\UiPath.DataService.Definition.dll"
       ],
-      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\23.4.0"
+      "Path": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.dataservice.activities\\24.6.0"
     },
     {
       "Package": {
