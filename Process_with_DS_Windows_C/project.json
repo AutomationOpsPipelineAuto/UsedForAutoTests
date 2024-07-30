@@ -1,22 +1,20 @@
 {
   "name": "Process_with_DS_Windows_C",
+  "projectId": "7e59c994-ff08-478c-b368-6b41cc12e302",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.DataService.Activities": "[23.4.0]",
-    "UiPath.Excel.Activities": "[2.20.0-beta.3709801]",
-    "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.System.Activities": "[23.4.0-preview]",
-    "UiPath.Testing.Activities": "[23.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.4.1-preview]"
+    "UiPath.DataService.Activities": "[24.6.0]",
+    "UiPath.System.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[24.10.2]"
   },
   "webServices": [],
   "entitiesStores": [
     {
       "serviceDocument": ".entities/EntitiesStore.json",
-      "tenantName": "Apps",
+      "tenantName": "DefaultTenant",
       "namespace": "Process_with_DS_Windows_C",
-      "uniqueReference": "ybmBhIv0ZOdwbZ4y58/DUDlTx4UDjZmFe6Kfzfj++7o="
+      "uniqueReference": "vKbOXJ8f+e2nj1TVNBf19KyCQhua/3vmsCnWIidv7i8="
     }
   ],
   "schemaVersion": "4.0",
@@ -51,7 +49,6 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true,
     "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
