@@ -51,6 +51,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
+    "modernBehavior": false,
     "saveToCloud": false
   },
   "expressionLanguage": "CSharp",

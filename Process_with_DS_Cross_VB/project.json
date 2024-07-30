@@ -1,21 +1,20 @@
 {
   "name": "Process_with_DS_Cross_VB",
+  "projectId": "d1b8e09a-428b-4aa0-b3b7-94214a339147",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.DataService.Activities": "[23.4.0]",
-    "UiPath.System.Activities": "[23.4.0-preview]",
-    "UiPath.Testing.Activities": "[23.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.4.1-preview]",
-    "UiPath.WebAPI.Activities": "[1.16.0-preview]"
+    "UiPath.DataService.Activities": "[24.6.0]",
+    "UiPath.System.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[24.10.2]"
   },
   "webServices": [],
   "entitiesStores": [
     {
       "serviceDocument": ".entities/EntitiesStore.json",
-      "tenantName": "Apps",
+      "tenantName": "DefaultTenant",
       "namespace": "Process_with_DS_Cross_VB",
-      "uniqueReference": "TCeIpt0t0nrkRq17NV/I2W6Pzuou3NKfQSP5OmoaxsU="
+      "uniqueReference": "sa8h48b9dDgg4IshqQQKqNzPcyQH6ts/4fyXy1ybtyw="
     }
   ],
   "schemaVersion": "4.0",
@@ -50,7 +49,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

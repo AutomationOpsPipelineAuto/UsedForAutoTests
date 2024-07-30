@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yRZXQTQU98/zk8MA1qQCewPxLwh5GKV5Q5A6D+46voKub+uHtKSH0aquBq2FkS79Q0TGCdtt8RF9n0pooter7g==",
+  "dgSpecHash": "fRrYh3vT3oBuWcNS86jU59j3J9nr8V0Kn3tRA2mjBoXrC56ny5qufHkyBJVNNRzNZ1A1fR4tjY0RTxHsM/9elQ==",
   "success": true,
-  "projectFilePath": "C:\\AutomationOps\\2151\\Process_with_DS_Cross_C\\.local\\",
+  "projectFilePath": "C:\\AutomationOps\\2152\\Process_with_DS_Cross_C\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -42,6 +42,7 @@
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\runtime.any.system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtime.win7.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\system.activities.viewmodels.1.0.0-20230306.1.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
