@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net6.0": {
       "CsvHelper/16.0.0": {
         "type": "package",
         "dependencies": {
@@ -1297,7 +1297,7 @@
         }
       }
     },
-    "net8.0/win-x64": {
+    "net6.0/win10-x64": {
       "CsvHelper/16.0.0": {
         "type": "package",
         "dependencies": {
@@ -4586,7 +4586,7 @@
   },
   "projectFileDependencyGroups": {
     "": [],
-    "net8.0": [
+    "net6.0": [
       "UiPath.DataService.Activities >= 24.6.0 <= 24.6.0",
       "UiPath.System.Activities >= 24.10.4 <= 24.10.4",
       "UiPath.UIAutomation.Activities >= 24.10.2 <= 24.10.2"
@@ -4599,12 +4599,12 @@
     "restore": {
       "projectUniqueName": "Process_with_DS_Cross_VB",
       "projectName": "Process_with_DS_Cross_VB",
-      "projectPath": "C:\\AutomationOps\\2153\\Process_with_DS_Cross_VB\\.local",
+      "projectPath": "C:\\AutomationOps\\2164\\Process_with_DS_Cross_VB\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\AutomationOps\\2153\\Process_with_DS_Cross_VB\\.local"
+      "outputPath": "C:\\AutomationOps\\2164\\Process_with_DS_Cross_VB\\.local"
     },
     "frameworks": {
-      "net8.0": {
+      "net6.0": {
         "dependencies": {
           "UiPath.DataService.Activities": {
             "include": "Runtime",
@@ -4622,11 +4622,11 @@
             "version": "[24.10.2, 24.10.2]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.pipelines.activities\\2.0.0\\tools\\net6.0-windows7.0\\runtime.json"
       }
     },
     "runtimes": {
-      "win-x64": {
+      "win10-x64": {
         "#import": []
       }
     }
