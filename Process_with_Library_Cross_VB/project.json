@@ -1,13 +1,14 @@
 {
   "name": "Process_with_Library_Cross_VB",
+  "projectId": "507c8ae1-c151-48a7-b54a-fd036ed137a7",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "SimpleLibrary_Cross_VB": "[1.0.32]",
-    "UiPath.System.Activities": "[23.4.0-preview]",
-    "UiPath.Testing.Activities": "[23.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.4.1-preview]",
-    "UiPath.WebAPI.Activities": "[1.16.0-preview]"
+    "SimpleLibrary_Cross_VB": "[1.0.2454]",
+    "UiPath.System.Activities": "[24.10.4]",
+    "UiPath.Testing.Activities": "[24.10.1]",
+    "UiPath.UIAutomation.Activities": "[24.10.2]",
+    "UiPath.WebAPI.Activities": "[1.21.0]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -43,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
